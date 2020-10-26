@@ -1,0 +1,22 @@
+{
+  "name": "QOTE",
+  "website": "https://qoteqote.com/",
+  "source_code": "https://github.com/qoteqote/smartcontract_qote/blob/main/QOTE_smartcontract",
+  "white_paper": "https://github.com/qoteqote/whitepaper/blob/main/White_Paper_qoteqote_pt_en.pdf",
+  "short_description": "QOTE is a new cryptocurrency to buy ads in the platform qoteqote a new social media that will share profits with the users",
+  "description": "Qoteqote will change the social media establishment and the goal is to provide UBI Universal Basic Income for a limited quantity of users in the future",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/qoteqote1",
+      "handle": "QOTEQOTE"
+    },
+    {
+      "name": "QOTEQOTE",
+      "url": "https://www.reddit.com/user/qoteqote",
+      "handle": "QOTEQOTE"
+    }
+  ],
+  "explorer": "https://blockchair.com/ethereum/erc-20/token/0x7164a222edb44a6f72440fee1512f72783975c49",
+  "research": "https://research.binance.com/en/projects/qote"
+}
